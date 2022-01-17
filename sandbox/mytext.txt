@@ -1,4 +1,7 @@
 I am writting from my home
 
+su [usuario]: Cambiar de usuario
+sudo passwd root: Cambiar contraseña del root
+
 
 It´s amazing XD XD

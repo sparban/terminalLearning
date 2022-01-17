@@ -1,0 +1,4 @@
+Comandos Basicos usados durante la clase
+
+- su [usuario]: Cambiar de usuario
+- sudo passwd root: Cambiar contraseña del root
