@@ -1,0 +1,9 @@
+
+Command 'open' not found, did you mean:
+
+  command 'pen' from deb pen (0.34.1-1build1)
+  command 'wopen' from deb gworkspace.app (0.9.4-2)
+  command 'gopen' from deb gnustep-gui-runtime (0.27.0-5build2)
+
+Try: sudo apt install <deb name>
+
